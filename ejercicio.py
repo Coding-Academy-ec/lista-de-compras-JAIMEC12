@@ -1,7 +1,7 @@
 # Ingrese una lista de compras: manzanas, plátanos, leche, pan
 # Los productos en la lista de compras son: ['manzanas', 'plátanos', 'leche', 'pan']
 
-from lib2to3.pytree import convert
+#from lib2to3.pytree import convert
 
 
 compras = input("Ingrese una lista de compras: ")
